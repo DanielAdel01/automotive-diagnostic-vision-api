@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+routers/__pycache__/
+*.pyc
+model/export.pkl
+blank_test.png
+debug_crop.png
+debug_crop_stop.png
+download (1).jpg
+download (2).jpg
+download (3).jpg
+download.jpg
+easy.png
+images.jpg
+test_sign.png
