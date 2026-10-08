@@ -2,7 +2,20 @@
 __pycache__/
 routers/__pycache__/
 *.pyc
+
+# Trained / exported models
 model/export.pkl
+dtc_lora_adapter/
+dtc_lora_adapter_v2/
+dtc_lora_adapter_v3/
+lora_dtc_output_v2/
+lora_dtc_output_v3/
+
+# Audio test / generated files
+*.mp3
+*.wav
+
+# Image test files
 blank_test.png
 debug_crop.png
 debug_crop_stop.png
